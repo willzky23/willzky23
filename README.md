@@ -18,20 +18,18 @@ Me chamo Willian Alves, tenho 17 anos e sou natural de Pereiro, Ceará. Estudo n
 
 ## 📊 Estatísticas
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table>
   <tr>
     <td>
       <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=willzky23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=willzky23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0a192f" 
+        height="200"
       />
     </td>
     <td>
       <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=willzky23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=willzky23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0a192f" 
+        height="200"
       />
     </td>
   </tr>
