@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Olá,+meu+nome+é+Willian+Alves" alt="Typing SVG" />
 
-Me chamo Willian Alves, tenho 17 anos e sou natural de Pereiro, Ceará. Estudo na Escola Maria Célia Pinheiro Falcão, onde venho desenvolvendo meu interesse por tecnologia e programação. Sou apaixonado por aprender e estou sempre em busca de novos conhecimentos que me ajudem a crescer na área da informática. Tenho uma personalidade focada e curiosa, e gosto de explorar diferentes formas de resolver problemas de maneira criativa. Acredito que a dedicação e o aprendizado contínuo são essenciais para alcançar grandes conquistas, e estou animado para seguir evoluindo nesse caminho.
+Me chamo Willian Alves, tenho 18 anos e sou natural de Pereiro, Ceará. Estudo no Instituto Federal do Rio Grande do Norte (IFRN) campus Pau dos Ferros, onde venho desenvolvendo meu interesse por tecnologia e programação. Sou apaixonado por aprender e estou sempre em busca de novos conhecimentos que me ajudem a crescer na área da informática. Tenho uma personalidade focada e curiosa, e gosto de explorar diferentes formas de resolver problemas de maneira criativa. Acredito que a dedicação e o aprendizado contínuo são essenciais para alcançar grandes conquistas, e estou animado para seguir evoluindo nesse caminho.
 
 ## 📬 Me acompanhe
 
